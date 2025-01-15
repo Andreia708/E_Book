@@ -1,7 +1,8 @@
 # E_Book
 Esse Ebook foi gerado por IA, e diagramado por humano.
 
-Título do E-Book ;)
+Título do E-Book
+
 Pensamento JEDI
 
 🧐 Processo de Criação
